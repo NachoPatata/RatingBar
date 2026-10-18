@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Opciones que aparecen en el FloatingContextMenu al mantener presionado -->
+    <item
+        android:id="@+id/opcion_mostrar"
+        android:title="Mostrar mensaje oculto " />
+    <item
+        android:id="@+id/opcion_cinco_estrellas"
+        android:title="Poner 5 estrellas " />
+    <item
+        android:id="@+id/opcion_ocultar"
+        android:title="Ocultar mensaje" />
+</menu>
